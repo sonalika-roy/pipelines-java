@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/sonalikaroy0095/Azurepipelines/_apis/build/status/sonalika-roy.pipelines-java?branchName=master)](https://dev.azure.com/sonalikaroy0095/Azurepipelines/_build/latest?definitionId=6&branchName=master)
 
 # Contributing
 
